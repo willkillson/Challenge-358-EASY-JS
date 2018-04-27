@@ -3,6 +3,7 @@ https://www.reddit.com/r/dailyprogrammer/comments/8eger3/20180423_challenge_358_
 
 Here is my submission for [2018-04-23] Challenge #358 [Easy] Decipher The Seven Segments
 
- https://willkillson.github.io/Challenge-358-EASY-JS/
+I didn't hardcode the input, so if you want to give this a go, you will need to get to download the input file.
+https://willkillson.github.io/Challenge-358-EASY-JS/
 
 DONE!!!
